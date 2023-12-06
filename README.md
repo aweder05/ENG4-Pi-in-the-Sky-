@@ -29,15 +29,22 @@ Below is a list of possible project ideas, and a list of pros/cons for each to h
     * Pros: Easy to Test, not expensive, no forseeable insane-level code
     * Cons: Difficult to Build
 
-### Choice_of_Project 
+### Choice_of_Project
 
-Below will be our final choice of project, and our reasons for choosing it. 
+**PID Steered Flyer**:We are going to make an flyer that is powered by a motor, and uses PID to stay stable. We will use the Rasberry-Pi to collect the tilt data.
+
+**Why**: The airplane will be complicated because we are putting individual aspects of engineering we've learned, together. We chose this project because we are applying what we've learned in our engineering courses to build something really cool.
 
 ### Research
+* [How to Make Cheap Single Cell Battery Powered RC Airplane.. Homemade Airplane
+](https://www.youtube.com/watch?v=JX_KkInFhow)
 
 ### Important_Resources
 
 ### Schedule 
+[Google Calendar](https://calendar.google.com/calendar/u/0/r/month/2023/12/1?pli=1)
+
+### Materials
 
 ### Success_Statement
 
