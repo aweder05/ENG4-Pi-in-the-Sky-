@@ -65,6 +65,7 @@ Below is a list of possible project ideas, and a list of pros/cons for each to h
 - Servo control horn
 ### Success_Statement
 
+The project will be considered a success if the flyer is turned on with a switch and will store the tilt data onto the Pico so that it can be presented on the computer. An extra bonus will be having the flyer be controlled with PID so that it can hopefully remain in flight for an extended amount on time.
 
 
 
