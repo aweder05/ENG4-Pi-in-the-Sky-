@@ -40,12 +40,29 @@ Below is a list of possible project ideas, and a list of pros/cons for each to h
 ](https://www.youtube.com/watch?v=JX_KkInFhow)
 
 ### Important_Resources
+[Crash Avoidence Light + Power](https://github.com/sechen12/Engineering_4_Notebook/blob/main/raspberry-pi/Crash_Avoidance_Light%20%2B%20Power.py) - Code for the calculating the tilt with an MPU, and the Pico sending an output depending on the conditions.
+
+[Data Storage](https://github.com/sechen12/Engineering_4_Notebook/blob/main/raspberry-pi/Data_Storage) - Code for storing the data
 
 ### Schedule 
 [Google Calendar](https://calendar.google.com/calendar/u/0/r/month/2023/12/1?pli=1)
 
 ### Materials
+**Hardware:**
+- 9gr Micro servos
+- 5gr Micro servo
+- 18650 3.7V Battery
+- 18650 Charger
 
+**Non-electronics:**
+- 5mm kraft foam board
+- 3mm insulation foam
+- 2mm balsa sheet
+- 108mm Propellers (CW&CCW)
+- Hot melt Glue Gun
+- Cable Tie
+- 1.2mm Pushrods
+- Servo control horn
 ### Success_Statement
 
 
