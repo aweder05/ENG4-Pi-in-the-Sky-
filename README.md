@@ -71,11 +71,12 @@ Below is a list of possible project ideas, and a list of pros/cons for each to h
 - Vertical stabilizer
 
 ### Diagrams
+|  |  |
+| :------------ | :------------- |
+| <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/2eb1dab3-be66-484a-af29-30a4690398e1" width="300" >  |  <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/10bc984d-8906-4312-901a-ed7aba2ddeba" width="300"> |
+| <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c516aa95-9e0c-4a22-ad81-20b906b10a0d" width="300" > | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/1cf55f83-0eb0-4559-90e1-859e643a86b1" width="300" >
 
-![IMG_7219](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/2eb1dab3-be66-484a-af29-30a4690398e1)
-![IMG_7218](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/10bc984d-8906-4312-901a-ed7aba2ddeba)
-![IMG_7221](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c516aa95-9e0c-4a22-ad81-20b906b10a0d)
-![IMG_7220](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/1cf55f83-0eb0-4559-90e1-859e643a86b1)
+----
 
 ### Success_Statement
 
