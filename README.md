@@ -28,6 +28,9 @@ Below is a list of possible project ideas, and a list of pros/cons for each to h
 * Some sort of Projectile Launcher
     * Pros: Easy to Test, not expensive, no forseeable insane-level code
     * Cons: Difficult to Build
+* DC Motor Plane
+    * Pros: Easy to Test, simple enough electronics
+    * Cons: Complicated math, have to account for weight everywhere 
 
 ### Choice_of_Project
 
