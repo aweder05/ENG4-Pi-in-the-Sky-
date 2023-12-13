@@ -73,19 +73,32 @@ Below is a list of possible project ideas, and a list of pros/cons for each to h
 - Horizontal stabilizer
 - Vertical stabilizer
 
-<<<<<<< HEAD
 &nbsp;
 -----
 
+## Code Criteria
+
+Setup: 
+- Define pins MPU Accelerometer
+- Define pins for DC Motor 
+
+Loop:
+- Create Switch for DC Motor 
+- Run DC Motor When Switch is turned on
+- Run DC Motor for set time (acting as a booster for the glider)
+- Collect Data from the Accelerometer and store it on the PicoW
+
+
 ### **Success_Statement**
-=======
+
 ### Diagrams
 |  |  |
 | :------------ | :------------- |
-| <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/2eb1dab3-be66-484a-af29-30a4690398e1" width="300" >  |  <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/10bc984d-8906-4312-901a-ed7aba2ddeba" width="300"> |
-| <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c516aa95-9e0c-4a22-ad81-20b906b10a0d" width="300" > | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/1cf55f83-0eb0-4559-90e1-859e643a86b1" width="300" >
+| <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/2eb1dab3-be66-484a-af29-30a4690398e1" width="170" >  |  <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/10bc984d-8906-4312-901a-ed7aba2ddeba" width="300"> |
+| <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c516aa95-9e0c-4a22-ad81-20b906b10a0d" width="400" > | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/1cf55f83-0eb0-4559-90e1-859e643a86b1" width="300" >
 
 ----
+
 
 ### Success_Statement
 
