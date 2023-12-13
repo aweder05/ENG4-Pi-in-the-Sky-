@@ -11,6 +11,7 @@
 * [Section 1: Planning](Section_1:_Planning)
     * [Initial Ideas](Intitial_Ideas)
     * [Choice of Project](Choice_of_Project)
+    * [Diagrams](Diagrams)
 
 &nbsp;
 
@@ -68,6 +69,14 @@ Below is a list of possible project ideas, and a list of pros/cons for each to h
 - Body
 - Horizontal stabilizer
 - Vertical stabilizer
+
+### Diagrams
+
+![IMG_7219](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/2eb1dab3-be66-484a-af29-30a4690398e1)
+![IMG_7218](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/10bc984d-8906-4312-901a-ed7aba2ddeba)
+![IMG_7221](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c516aa95-9e0c-4a22-ad81-20b906b10a0d)
+![IMG_7220](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/1cf55f83-0eb0-4559-90e1-859e643a86b1)
+
 ### Success_Statement
 
 The project will be considered a success if the flyer is turned on with a switch and will store the tilt data onto the Pico so that it can be presented on the computer. An extra bonus will be having the flyer be controlled with PID so that it can hopefully remain in flight for an extended amount on time.
