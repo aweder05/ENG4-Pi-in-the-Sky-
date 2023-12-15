@@ -88,6 +88,13 @@ Loop:
 - Run DC Motor for set time (acting as a booster for the glider)
 - Collect Data from the Accelerometer and store it on the PicoW
 
+## Code Flow Chart
+
+Here is a flowchart to help us with our coding: 
+##### Note, the PID Section is not part of our success statement, and this Flow Chart will most likely change over the course of our project
+
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Screenshot%202023-12-15%20102348.png?raw=true" >
+
 
 ### **Success_Statement**
 
