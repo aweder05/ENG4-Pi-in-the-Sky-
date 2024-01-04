@@ -103,29 +103,40 @@ Here is a flowchart to help us with our coding:
 
 ----
 
-| | | 
-|--|--|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c04934d3-edcc-4803-aca9-d20b86aa0998" width="400">|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">
-|
 
-<<<<<<< HEAD
-=======
-<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">
 
->>>>>>> a07575221e3fea4b86d3dfd85bfc9be378c6c26f
 ### Success_Statement
 
 The project will be considered a success if the flyer is turned on with a switch and will store the tilt data onto the Pico so that it can be presented on the computer. An extra bonus will be having the flyer be controlled with PID so that it can hopefully remain in flight for an extended amount on time.
 
 ----
 
-## **Log of Documentation**
+# **Log of Documentation**
+---- 
+----
+### **CAD Basics** 01 / 03 / 2024
 
-### **02 / 03 / 2024**
+Although part of the project will be fabricated using the laser cutter machine, most of the project will be handmade. We rendered our project in CAD with the intent of visualising what our final project will look like, and to find the mass of the projectile (without the electronics). The CAD was simple to design; sketches, extrudes and mate connections were the only tools used to render the plane. We plan on laser cutting the supports found under the wing that have the functions of both catching air, and providing a frame to the foam.
+
+| | | 
+|--|--|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c04934d3-edcc-4803-aca9-d20b86aa0998" width="400">|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">
+|
+
+
+### **Early Prototypes and Fabrication** 01 / 03 / 2024
 ---
 
 Today was the first day back from break, and we knew that we needed to get to work as quickly as possible. On our to do list for this week was to begin fabricating our project. The first thing that we did when coming into class was to look for building materials for our plane. Building a plane, we knew that materials needed to be light, flexible, and easily cut to exact specifications.
 
-![IMG_7375](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b62c4b89-db32-438e-b277-32ca9b496c0c)
-![IMG_7377](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b9ebb8d3-4bc0-4992-8942-df8d15c81e0d)
-![IMG_7376](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3b065b6e-d142-4e0f-b96c-e14e6fe33f28)
+| | | |
+|:---|:---|:---|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b62c4b89-db32-438e-b277-32ca9b496c0c" width="200"> | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b9ebb8d3-4bc0-4992-8942-df8d15c81e0d" width="105"> | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3b065b6e-d142-4e0f-b96c-e14e6fe33f28" width="200"> | 
+
+The above images show our first attempt at creating the inner structure of the wing. I took some inspiration from Dylan Halbert and Grant Gastinger's project where they used the same building techniques. These techniques involved putting holes into the wing supports in order to make them more sturdy and rigid, but still horizontally flexible, with respect to the wingspan. 
+
+Our first attempt at fabricating this was using balsawood, since is light and relatively flexible and sturdy, especially when only cutting a small area such as ours. This turned out to unfortunately not work in our favor as the balsawood burned a lot more under the laser. We then decided to still use wood, but a more dense wood and wood that would not as easily burn up. 
+
+----
+
+
