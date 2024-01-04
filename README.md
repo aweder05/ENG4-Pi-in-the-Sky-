@@ -95,9 +95,6 @@ Here is a flowchart to help us with our coding:
 
 <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Screenshot%202023-12-15%20102348.png?raw=true" >
 
-
-### **Success_Statement**
-
 ### Diagrams
 |  |  |
 | :------------ | :------------- |
@@ -111,6 +108,11 @@ Here is a flowchart to help us with our coding:
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c04934d3-edcc-4803-aca9-d20b86aa0998" width="400">|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">
 |
 
+<<<<<<< HEAD
+=======
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">
+
+>>>>>>> a07575221e3fea4b86d3dfd85bfc9be378c6c26f
 ### Success_Statement
 
 The project will be considered a success if the flyer is turned on with a switch and will store the tilt data onto the Pico so that it can be presented on the computer. An extra bonus will be having the flyer be controlled with PID so that it can hopefully remain in flight for an extended amount on time.
@@ -122,6 +124,8 @@ The project will be considered a success if the flyer is turned on with a switch
 ### **02 / 03 / 2024**
 ---
 
-Today was the first day back from break, and we knew that we needed to get to work as quickly as possible. On our to do list for this week was to begin fabricating our project. The first thing that we did when coming into class was to look for building materials for our plane. Building a plane, we knew that materials needed to be light, flexible, and easily cut to exact specifications. 
+Today was the first day back from break, and we knew that we needed to get to work as quickly as possible. On our to do list for this week was to begin fabricating our project. The first thing that we did when coming into class was to look for building materials for our plane. Building a plane, we knew that materials needed to be light, flexible, and easily cut to exact specifications.
 
-
+![IMG_7375](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b62c4b89-db32-438e-b277-32ca9b496c0c)
+![IMG_7377](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b9ebb8d3-4bc0-4992-8942-df8d15c81e0d)
+![IMG_7376](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3b065b6e-d142-4e0f-b96c-e14e6fe33f28)
