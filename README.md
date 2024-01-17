@@ -135,8 +135,10 @@ Today was the first day back from break, and we knew that we needed to get to wo
 
 The above images show our first attempt at creating the inner structure of the wing. I took some inspiration from Dylan Halbert and Grant Gastinger's project where they used the same building techniques. These techniques involved putting holes into the wing supports in order to make them more sturdy and rigid, but still horizontally flexible, with respect to the wingspan. 
 
-Our first attempt at fabricating this was using balsawood, since is light and relatively flexible and sturdy, especially when only cutting a small area such as ours. This turned out to unfortunately not work in our favor as the balsawood burned a lot more under the laser. We then decided to still use wood, but a more dense wood and wood that would not as easily burn up. 
+Our first attempt at fabricating this was using balsawood, since is light and relatively flexible and sturdy, especially when only cutting a small area such as ours. This turned out to unfortunately not work in our favor as the balsawood burned a lot more under the laser. We then decided to still use wood, but a more dense wood and wood that would not as easily burn up.
 
 ----
 
+### **Coding** 01 / 17 / 2024
 
+Coding so far has been difficult. The code currently doesn't work, but one thing that was probably important was having the proper libraries imported into our lib folder so that we don't have to write all the code from scratch.
