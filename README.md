@@ -142,3 +142,7 @@ Our first attempt at fabricating this was using balsawood, since is light and re
 ### **Coding** 01 / 17 / 2024
 
 Coding so far has been difficult. The code currently doesn't work, but one thing that was probably important was having the proper libraries imported into our lib folder so that we don't have to write all the code from scratch.
+
+*two minutes later*
+
+Anton got the code working! After deleting the line ``sensor.sealevel_pressure = 1013.2``, the code started printing the tempature, pressure and altitude values.
