@@ -146,3 +146,7 @@ Coding so far has been difficult. The code currently doesn't work, but one thing
 *two minutes later*
 
 Anton got the code working! After deleting the line ``sensor.sealevel_pressure = 1013.2``, the code started printing the tempature, pressure and altitude values. The line Anton deleted states what the pressure at sea level is so that the computer could be calibrated to calculate the altitude, therefore the altitude that is being printed is wrong - this is our next problem to figure out.
+
+### **Coding and wiring** 01 / 18 / 2024
+
+Today Anton and Mr. Miller figured out why the code wasn't working: [this is where you say what was wrong Anton]. We also soldered the battery, motor, and switch together so that we could build our prototype. We have no control over the motor, but our next steps are assembling the prototype, and start fabricating the final project!
