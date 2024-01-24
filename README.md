@@ -135,8 +135,26 @@ Today was the first day back from break, and we knew that we needed to get to wo
 
 The above images show our first attempt at creating the inner structure of the wing. I took some inspiration from Dylan Halbert and Grant Gastinger's project where they used the same building techniques. These techniques involved putting holes into the wing supports in order to make them more sturdy and rigid, but still horizontally flexible, with respect to the wingspan. 
 
-Our first attempt at fabricating this was using balsawood, since is light and relatively flexible and sturdy, especially when only cutting a small area such as ours. This turned out to unfortunately not work in our favor as the balsawood burned a lot more under the laser. We then decided to still use wood, but a more dense wood and wood that would not as easily burn up. 
+Our first attempt at fabricating this was using balsawood, since is light and relatively flexible and sturdy, especially when only cutting a small area such as ours. This turned out to unfortunately not work in our favor as the balsawood burned a lot more under the laser. We then decided to still use wood, but a more dense wood and wood that would not as easily burn up.
 
 ----
 
+### **Coding** 01 / 17 / 2024
 
+Coding so far has been difficult. The code currently doesn't work, but one thing that was probably important was having the proper libraries imported into our lib folder so that we don't have to write all the code from scratch.
+
+*two minutes later*
+
+Anton got the code working! After deleting the line ``sensor.sealevel_pressure = 1013.2``, the code started printing the tempature, pressure and altitude values. The line Anton deleted states what the pressure at sea level is so that the computer could be calibrated to calculate the altitude, therefore the altitude that is being printed is wrong - this is our next problem to figure out.
+
+### **Coding and wiring** 01 / 18 / 2024
+
+Today Anton and Mr. Miller figured out why the code wasn't working: [this is where you say what was wrong Anton]. We also soldered the battery, motor, and switch together so that we could build our prototype. We have no control over the motor, but our next steps are assembling the prototype, and start fabricating the final project!
+
+### **Prototype creation** 01 / 24 / 2024
+
+| | | |
+|:---|:---|:---|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/e110b571-a278-454b-839d-19cfaf43fc82" width="200"> | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/90e3dc50-67a0-43b3-94af-f94d4892da26" width="200"> | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3008a10c-71ac-4544-830c-2221f8cc52d0" width="200"> |
+
+Today we finished creating the prototype. We used a pre-made plane from Anton, and carved the cockpit out so that the wiring and batter could fit. We then mounted the motor and switch, and taped everything neatly. Finally, we attached the propellor. Before we taped everything down, we had to solder the motor, battery and swich together (the direction didn't matter, just that it creates a complete circuit). Our next steps are getting the foam, and starting to fabricate the final project!
