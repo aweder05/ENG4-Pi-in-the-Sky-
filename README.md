@@ -149,4 +149,36 @@ Anton got the code working! After deleting the line ``sensor.sealevel_pressure =
 
 ### **Coding and wiring** 01 / 18 / 2024
 
-Today Anton and Mr. Miller figured out why the code wasn't working: [this is where you say what was wrong Anton]. We also soldered the battery, motor, and switch together so that we could build our prototype. We have no control over the motor, but our next steps are assembling the prototype, and start fabricating the final project!
+Today Anton and Mr. Miller figured out why the code wasn't working: the altimiter is able to detect a change in altitude, but is incapable of printing exact altitude values. 
+
+We also soldered the battery, motor, and switch together so that we could build our prototype. We have no control over the motor, but our next steps are assembling the prototype, and start fabricating the final project!
+
+### **Prototype creation** 01 / 24 / 2024
+
+| | | |
+|:---|:---|:---|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/e110b571-a278-454b-839d-19cfaf43fc82" width="200"> | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/90e3dc50-67a0-43b3-94af-f94d4892da26" width="200"> | <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3008a10c-71ac-4544-830c-2221f8cc52d0" width="200"> |
+
+###### In the above image, you can see how we mounted our three components (battery, switch, and motor) to the plane. The battery and all of the wiring is encased under the hollowed out black section of the cockpit.)
+
+&nbsp;
+
+
+Today we finished creating the prototype. We used a pre-made plane from Anton, and carved the cockpit out so that the wiring and batter could fit. We then mounted the motor and switch, and taped everything neatly. Finally, we attached the propellor. Before we taped everything down, we had to solder the motor, battery and swich together (the direction didn't matter, just that it creates a complete circuit). Our next steps are getting the foam, and starting to fabricate the final project. It is also important to note before the end of this entry that we will have to figure out a way to reverse the direction of our motor, so that it doesn't end up going in the wrong direction or so that it doesn't crash completely. We will also have to pay great attention to detail when distributing the weight accross our aircraft. The original toy plane had a small metal ball in the front of the plane, in order to keep a consistent direction, but the addition of the battery and the motor is of course greater than this initial metal ball, so we will have to adjust the weight of the rest of the plane accordingly when going through the final fabrication process. 
+
+&nbsp;
+
+----
+
+### **Altimeter Test Code 90% Working** 01/24/2024
+
+Today, we finally accepted that the altimeter not being able to pinpoint our exact altitude would not be a huge problem for us. It is able to detect changes in altitude perfectly, and to a degree that will satisfy our needs. The only place where we "cheated" a little bit was when I added the `+150` on top of     `print(f"Altitude: {sensor.altitude +150}")` so that it would match the altitude of Charlottesville High School. This "+" value will most likely change day to day because of how the altitude is calculated through pressure, and because pressure can change due to a number of various factors, including weather. (When humidity increases, air pressure decreases, and vice versa.)
+
+**Here is a link to the [altimertest.py](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/code/altimitertest.py) code.**
+###### For space management purposes, this code can be accessed by pressing the link provided above. 
+
+----
+&nbsp;
+
+
+
