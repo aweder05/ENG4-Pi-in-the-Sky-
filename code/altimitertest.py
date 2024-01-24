@@ -11,6 +11,7 @@ scl_pin = board.GP17 ## States the pin for SCL
 sensor = adafruit_mpl3115a2.MPL3115A2(i2c)
 sensor = adafruit_mpl3115a2.MPL3115A2(i2c, address=0x10)
 
+with open("/data.csv", "a") as datalog: #When Data Mode is Active
 While True: 
     pressure = sensor.pressure
     print("Pressure: {0:0.3f} hectopascals".format(pressure))
