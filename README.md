@@ -20,7 +20,7 @@
 ## **Section_1:_Planning** 
 ---
 
-### **Initial Ideas**
+### **Initial_Ideas**
 
 Below is a list of possible project ideas, and a list of pros/cons for each to help us reach a consensus on which project idea would be the best fit for us. 
 * GPS Tracker on a Balloon
