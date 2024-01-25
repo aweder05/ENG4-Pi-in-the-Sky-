@@ -10,10 +10,11 @@
 import board
 import adafruit_mpl3115a2
 import time 
-import busio 
+import busio
+import digitalio
 
-sda_pin = board.GP20 ## States the pin for SDA
-scl_pin = board.GP21 ## States the pin for SCL
+sda_pin = board.GP16 ## States the pin for SDA
+scl_pin = board.GP17 ## States the pin for SCL
 
 i2c = busio.I2C(scl_pin, sda_pin) ## States the pins for I2C
 
