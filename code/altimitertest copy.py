@@ -11,7 +11,6 @@ import board
 import adafruit_mpl3115a2
 import time 
 import busio
-import digitalio
 
 sda_pin = board.GP16 ## States the pin for SDA
 scl_pin = board.GP17 ## States the pin for SCL
