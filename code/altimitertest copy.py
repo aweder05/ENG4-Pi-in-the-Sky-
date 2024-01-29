@@ -25,18 +25,18 @@ sensor = adafruit_mpl3115a2.MPL3115A2(i2c)
 with open("/data.csv", "a") as datalog:
     while True: 
         #pressure = sensor.pressure
-        #print("Pressure: {0:0.3f} hectopascals".format(pressure))
-        print(f"Altitude: {sensor.altitude +150}")
+        #print("Pressure: {0:0.3f} hectopascals".format(pressure))``
+        #print(f"Altitude: {sensor.altitude +150}")
         Altitude = sensor.altitude +150
         ##altitude = sensor.altitude
         #print("Altitude: {0:0.3f} meters".format(altitude))
-        print(f"Pressure: {sensor.pressure}")
+        #print(f"Pressure: {sensor.pressure}")
         Pressure = sensor.pressure
         #temperature = sensor.temperature
 
         #print("Temperature: {0:0.3f} Celsius".format(temperature))
         #print(f"Temperature: {sensor.temperature}")
-        datalog.write(f"{time_elapsed},{Altitude},{Pressure}\n") #Put the data into a chart
+        datalog.write(f"{time.monotonic()},{Altitude},{Pressure}\n") #Put the data into a chart
         
         datalog.flush() # Save the data
-        time.sleep(1.0)
+        time.sleep(.5)
