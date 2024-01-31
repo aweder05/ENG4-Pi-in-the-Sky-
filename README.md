@@ -180,14 +180,20 @@ Today, we finally accepted that the altimeter not being able to pinpoint our exa
 
 ## **Altimer Data Storage Locally on Pico** 1/25/24
 
-After we've completed the test code for the altimeter, to make sure that we could actually use the altimeter in our final project. The tricky part that we had in front of us, after completing the test code, was to make sure that we would be able to store all of the data locally on the pico. This is a necessity since our project will of course not be connected to a computer, so everything will have to be battery powered and independent. The tricky part initially was to go through the whole process of Data Storage Part 1 and to recycle it for the altimeter. Where we ran into issues was when we couldn't find the data.csv file in our CircuitPy folder on the computer's file explorer. At first, we were confused, since the line `with open("/data.csv", "a") as datalog:` should actually create a new data.csv file in the Pico's storage. Eventually we figured it out through [this is where sophie needs to explain how they fixed it]
+After we've completed the test code for the altimeter, to make sure that we could actually use the altimeter in our final project. The tricky part that we had in front of us, after completing the test code, was to make sure that we would be able to store all of the data locally on the pico. This is a necessity since our project will of course not be connected to a computer, so everything will have to be battery powered and independent. The tricky part initially was to go through the whole process of Data Storage Part 1 and to recycle it for the altimeter. Where we ran into issues was when we couldn't find the data.csv file in our CircuitPy folder on the computer's file explorer. At first, we were confused, since the line `with open("/data.csv", "a") as datalog:` should actually create a new data.csv file in the Pico's storage. Eventually we figured it out that in order to run the code, the program needs to be saved to the filed code.py, in our D-drive. There is also a process of saving the code to the board, so that when the Pico is switched into "data mode", the Pico will save the data onto the board, so that when switched *back* into "code mode", we can go into our data file, that should be stored in you Circuit Python D-drive, the data will be displayed in a table.
 
-[Insert link to COMMENTED CODE here]
+Here is the process from saving the code to the board, to then seeing the data stored in you D-drive:
+- Switch board into "code-mode, so that *you* are in control - the Pico should blink 3 times, slowly (this signals that the board is in "code mode")
+    - The board should be plugged into your computer at this point, and the battery should be off. If the battery is on, sometimes the computer gets confused as to where the power source is coming from
+- Do you code and run it so that the code is stored onto the board
+- Unplug the Pico from the computer, turn on the battery. and move the Pico in a motion that the sensor is designed to detect
+    - The Pico shoudl reset and blink quickly 10 times. This signals the board is in "data mode"
+- Before plugging the Pico back into the computer, turn your battery off, and switch back into "code mode" (you cannot open you D-drive without being in "code mode")
+- The data file should be in you D-drive, and when you open it, the values you wrote to store should appear
 
-[Insert explanation of how this will lead into our next step/task on this project]
+[code link is here](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/code/altimitertest%20copy.py)
+
+Now that we have our base code working, we are going to start working on fabrication. We went to Michael's and bought thin foam to use as the material to go onto the wings. We have pretty much finalized the desgins for the final project, so we just have to build it.
 
 ----
 &nbsp;
-
-
-
