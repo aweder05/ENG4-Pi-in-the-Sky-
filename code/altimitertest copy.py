@@ -1,13 +1,13 @@
 #type: ignore
  
 
-# SPDX-FileCopyrightText: 2019 Tony DiCola for Adafruit Industries
-# SPDX-License-Identifier: MIT
+### SPDX-FileCopyrightText: 2019 Tony DiCola for Adafruit Industries
+### SPDX-License-Identifier: MIT
 
-# Simple demo of the MPL3115A2 sensor.
-# Will read the pressure and temperature and print them out every second.
+### Simple demo of the MPL3115A2 sensor.
+### Will read the pressure and temperature and print them out every second.
 
-import board
+import board   
 import adafruit_mpl3115a2
 import time 
 import busio
@@ -27,11 +27,12 @@ with open("/data.csv", "a") as datalog:
         #pressure = sensor.pressure
         #print("Pressure: {0:0.3f} hectopascals".format(pressure))``
         #print(f"Altitude: {sensor.altitude +150}")
-        Altitude = sensor.altitude +150
+        Altitude = sensor.altitude +150 # This line defines altitude as a certain output value on the sensor, 
+        ## The plus +150 value is to make the value relative to the altitude value of Charlottesville at this moment 
         ##altitude = sensor.altitude
         #print("Altitude: {0:0.3f} meters".format(altitude))
         #print(f"Pressure: {sensor.pressure}")
-        Pressure = sensor.pressure
+        Pressure = sensor.pressure ## This line does essentially the same thing as line 30, but instead of dealing with altitude, it deals with pressure 
         #temperature = sensor.temperature
 
         #print("Temperature: {0:0.3f} Celsius".format(temperature))
