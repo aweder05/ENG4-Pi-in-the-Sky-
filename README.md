@@ -180,7 +180,9 @@ Today, we finally accepted that the altimeter not being able to pinpoint our exa
 
 ## **Altimer Data Storage Locally on Pico** 1/25/24
 
-After we've completed the test code for the altimeter, to make sure that we could actually use the altimeter in our final project. The tricky part that we had in front of us, after completing the test code, was to make sure that we would be able to store all of the data locally on the pico. This is a necessity since our project will of course not be connected to a computer, so everything will have to be battery powered and independent. The tricky part initially was to go through the whole process of Data Storage Part 1 and to recycle it for the altimeter. Where we ran into issues was when we couldn't find the data.csv file in our CircuitPy folder on the computer's file explorer. At first, we were confused, since the line `with open("/data.csv", "a") as datalog:` should actually create a new data.csv file in the Pico's storage. Eventually we figured it out through [this is where sophie needs to explain how they fixed it]
+After we've completed the test code for the altimeter, to make sure that we could actually use the altimeter in our final project. The tricky part that we had in front of us, after completing the test code, was to make sure that we would be able to store all of the data locally on the pico. This is a necessity since our project will of course not be connected to a computer, so everything will have to be battery powered and independent. The tricky part initially was to go through the whole process of Data Storage Part 1 and to recycle it for the altimeter. Where we ran into issues was when we couldn't find the data.csv file in our CircuitPy folder on the computer's file explorer. At first, we were confused, since the line `with open("/data.csv", "a") as datalog:` should actually create a new data.csv file in the Pico's storage. 
+
+Eventually we figured it out through [this is where sophie needs to explain how they fixed it]
 
 [Insert link to COMMENTED CODE here]
 
