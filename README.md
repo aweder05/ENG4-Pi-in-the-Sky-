@@ -198,8 +198,13 @@ Code link is [**here**](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/mai
 Now that we have our base code working, we are going to start working on fabrication. We went to Michael's and bought thin foam to use as the material to go onto the wings. We have pretty much finalized the desgins for the final project, so we just have to build it.
 
 ## **Wing Frames** 2/2/24
-![IMG_7660](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/ed813621-dbd2-405c-afb9-a3c058ee1313)
-![IMG_7661](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/e8d68e13-61f1-43c9-8ded-4aed2ef74ce7)
+
+
+| | | 
+|:--:|:--:|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/ed813621-dbd2-405c-afb9-a3c058ee1313" width="300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/e8d68e13-61f1-43c9-8ded-4aed2ef74ce7" width = "400">
+ | 
+
 Today we finished fabricating the frames for the wings. Unfortunately, we used hot glue to adhere the wing supports to the laser-cut wood pieces. We could have used friction fit to keep the wood pieces in place, but the quickest, most effective way to adhere the pieces was using hot glue.
 
 ----
