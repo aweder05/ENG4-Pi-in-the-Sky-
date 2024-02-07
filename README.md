@@ -210,4 +210,14 @@ Today we finished fabricating the frames for the wings. Unfortunately, we used h
 ----
 &nbsp;
 
+## **02/07/2024 Wiring Diagram completed to begin soldering final circuit** 
+
+Today was a very productive day, as we finally were able to get an idea of how our final wiring would look like. Using fritzing, we were able to get our exact components imported into the program, and provide ourselves with an accurate template to use while we solder on the headers, switch, altimeter, and battery accessories onto the Pico Cowbell attachment. 
+
+Here is an image of the wiring diagram:
+
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/finalwiring.png?raw=true" width="600">
+
+Once we start soldering, we can get a good idea of how all of the components fit onto our plane, and we can finally begin fabricating the fuselage.
+
 
