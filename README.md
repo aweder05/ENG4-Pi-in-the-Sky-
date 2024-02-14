@@ -220,4 +220,6 @@ Here is an image of the wiring diagram:
 
 Once we start soldering, we can get a good idea of how all of the components fit onto our plane, and we can finally begin fabricating the fuselage.
 
+## **02/14/2024 Soldering Progress and final CAD Planning 
 
+One week later, and we've made some good progress. Soldering is almost complete, and testing of the final circuit will hopefully start next week. If the circuit doesn't work, it'll suck, but we still have plenty of time to fix any possible issues. While soldering, we started to get a good idea of how we will implement the electronics into our plane. After doing some research, we've noticed how important it is to find our plane's center of mass, lift, and gravity, in order to make sure that it doesn't stall or go into a nosedive straight into the floor. 
