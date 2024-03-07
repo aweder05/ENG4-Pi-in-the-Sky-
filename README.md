@@ -220,8 +220,16 @@ Here is an image of the wiring diagram:
 
 Once we start soldering, we can get a good idea of how all of the components fit onto our plane, and we can finally begin fabricating the fuselage.
 
-## **02/14/2024 Soldering Progress and final CAD Planning 
+## **02/14/2024 Soldering Progress and final CAD Planning** 
 
 One week later, and we've made some good progress. Soldering is almost complete, and testing of the final circuit will hopefully start next week. If the circuit doesn't work, it'll suck, but we still have plenty of time to fix any possible issues. While soldering, we started to get a good idea of how we will implement the electronics into our plane. After doing some research, we've noticed how important it is to find our plane's center of mass, lift, and gravity, in order to make sure that it doesn't stall or go into a nosedive straight into the floor. 
 
-The tricky thing about soldering on such a small circuit board, along with integrating multiple components, is that at a certain point wires will begin to overlap and make it hard to fit anything new onto the PiCowbell module. Even though we didn't have a ton of components, it was enough to where we had to be really careful with our soldering, and make sure we wouldn't blow everything up. Soldering takes a substancial amount of concentration, so it's good that at least one person in our group is good at it. 
+The tricky thing about soldering on such a small circuit board, along with integrating multiple components, is that at a certain point wires will begin to overlap and make it hard to fit anything new onto the PiCowbell module. Even though we didn't have a ton of components, it was enough to where we had to be really careful with our soldering, and make sure we wouldn't blow everything up. Soldering takes a substancial amount of concentration, so it's good that at least one person in our group is good at it.
+
+## **3/7/24 Soldering Update and last CAD polishing planned** 
+
+Unfortutely, with our project coming along so well, we were bound to run into an obstacle at some point. For us, that obstacle came in the form of soldering. Our lack of experience soldering such circuits really proved to be our greatest issue, as we spent multiple class periods which would've been better suited for other work. 
+
+As we started soldering, things were going very well, but then once we had to start testing the different components, we kept running into little problems that ultimately cost us a lot of valuable time fixing. Our main issue was with wiring some components, such as the battery, to the wrong power input/output. Fixing this was not super hard, but all of the little fixes built up after time, and we had to eventually scrap our first prototyping PiCowbell and start again on a new one. 
+
+Today is a very special day for our soldering journey, as we finally got the board t switch between code and data mode; something that we had really struggled with in the past. The fix for this problem was really, really stupid. On VS Code, we had a boot.py file open for a different board than the one that we were using. This meant that that on the actual board that we were using, the switch that was wired to GP0 was coded to be wired to GP1. Fortunately, this was a very easy fix, but frustrating nonetheless. 
