@@ -232,4 +232,10 @@ Unfortutely, with our project coming along so well, we were bound to run into an
 
 As we started soldering, things were going very well, but then once we had to start testing the different components, we kept running into little problems that ultimately cost us a lot of valuable time fixing. Our main issue was with wiring some components, such as the battery, to the wrong power input/output. Fixing this was not super hard, but all of the little fixes built up after time, and we had to eventually scrap our first prototyping PiCowbell and start again on a new one. 
 
-Today is a very special day for our soldering journey, as we finally got the board t switch between code and data mode; something that we had really struggled with in the past. The fix for this problem was really, really stupid. On VS Code, we had a boot.py file open for a different board than the one that we were using. This meant that that on the actual board that we were using, the switch that was wired to GP0 was coded to be wired to GP1. Fortunately, this was a very easy fix, but frustrating nonetheless. 
+Today is a very special day for our soldering journey, as we finally got the board t switch between code and data mode; something that we had really struggled with in the past. The fix for this problem was really, really stupid. On VS Code, we had a boot.py file open for a different board than the one that we were using. This meant that that on the actual board that we were using, the switch that was wired to GP0 was coded to be wired to GP1. Fortunately, this was a very easy fix, but frustrating nonetheless.
+
+## **3/8/24 Final Soldering**
+
+![unnamed](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a99a0d29-159e-4f6e-86e4-6746853eca4f)
+![unnamed](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c289cb91-58e6-45d3-ba06-5bc50a24df75)
+
