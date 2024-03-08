@@ -238,4 +238,5 @@ Today is a very special day for our soldering journey, as we finally got the boa
 
 ![unnamed](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a99a0d29-159e-4f6e-86e4-6746853eca4f)
 ![unnamed](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c289cb91-58e6-45d3-ba06-5bc50a24df75)
+![0](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/863dfc89-9e25-4524-a785-f477e01fd8fe)
 
