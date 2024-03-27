@@ -243,5 +243,4 @@ Today, we can finally say that we have completed our soldering process. After a 
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a99a0d29-159e-4f6e-86e4-6746853eca4f" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c289cb91-58e6-45d3-ba06-5bc50a24df75" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/863dfc89-9e25-4524-a785-f477e01fd8fe" width="400">
  | 
 
-
-
+We had to solder our wiring twice. The first time we had to solder, we put too much solder onto board, making it difficult to avoid the metal we melted onto the board. This led to short ciruiting the board, and while we searched for the problem for some time, ultimately, we decided the best way to solve our problem was to start from scratch. On the second go-around, we were better at soldering, and learned that less is more. We were also much more meticulous in keeping track of what wires we had soldered. Before we even started soldering, we made sure to make a wiring diagram that we could easily replicate on the Cowbell. This didn't necessarily mean that it was a neat diagram, but a realistic one. This was important in our success in soldering.
