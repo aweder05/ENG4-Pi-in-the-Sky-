@@ -236,7 +236,12 @@ Today is a very special day for our soldering journey, as we finally got the boa
 
 ## **3/8/24 Final Soldering**
 
-![unnamed](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a99a0d29-159e-4f6e-86e4-6746853eca4f)
-![unnamed](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c289cb91-58e6-45d3-ba06-5bc50a24df75)
-![0](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/863dfc89-9e25-4524-a785-f477e01fd8fe)
+Today, we can finally say that we have completed our soldering process. After a couple weeks of frustrating setbacks, we can finally say that this part of our project is complete. The key to this success was to first come up with an essentially foolproof plan and wiring diagram in order to ensure no more setbacks will waste valuable time for us. 
+
+| | | |
+|:--:|:--:|:--:|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a99a0d29-159e-4f6e-86e4-6746853eca4f" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c289cb91-58e6-45d3-ba06-5bc50a24df75" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/863dfc89-9e25-4524-a785-f477e01fd8fe" width="400">
+ | 
+
+
 
