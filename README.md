@@ -248,3 +248,5 @@ We had to solder our wiring twice. The first time we had to solder, we put too m
 | | | |
 |:--:|:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cb79bcef-82ad-4b70-a608-afeddfc27276" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cf14ad6b-580a-47df-a074-4933ab49fe97" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/51d23656-0944-4c7c-bc8e-8c15fd2b92b7" width="400">
+
+These are prototypes images of how the Pico portion of the flight would look/fit like. Prototyping small portions of the plane is helpful because it reduces waste, and makes it easier to see what parts of the final project will need extra attention, and what parts work. Figuring out how the Pico would fit onto the plane was one of our biggest issues, but by rendering small prototypes, and tweaking the small problems, we reduced waste and time.
