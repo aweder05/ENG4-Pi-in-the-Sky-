@@ -250,3 +250,11 @@ We had to solder our wiring twice. The first time we had to solder, we put too m
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cb79bcef-82ad-4b70-a608-afeddfc27276" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cf14ad6b-580a-47df-a074-4933ab49fe97" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/51d23656-0944-4c7c-bc8e-8c15fd2b92b7" width="400">
 
 These are prototypes images of how the Pico portion of the flight would look/fit like. Prototyping small portions of the plane is helpful because it reduces waste, and makes it easier to see what parts of the final project will need extra attention, and what parts work. Figuring out how the Pico would fit onto the plane was one of our biggest issues, but by rendering small prototypes, and tweaking the small problems, we reduced waste and time.
+
+## **4/10/24 Fabrication**
+
+Today we started to put our final project together. We printed a few pieces last class and put them on this class. We decided to use birch wood as the body and wings, and basswood for the wing supports. While we were putting the final plane together, we realized that our motor may not be powerful enough to provide the plane lift. We have a couple of solutions: use the larger DC motor, but recreate the bracket the smaller DC was previously held in; we can also use a smaller motor that is often used in drones, but it uses a different battery, so we would have to remodel both the bracket that holds the motor, and the our battery pack; finally, we could simply risk using our current motor. None of the options are particularly preferred. Our plane is modeled around our motor. The bracket for the smaller DC motor was the first thing we modeled, which led us to create the plane based off of the DC motor's bracket dimensions.
+
+*2 seconds later*
+
+We decided to use the large DC motor, and recreate the bracket.
