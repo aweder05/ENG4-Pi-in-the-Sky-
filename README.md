@@ -120,8 +120,7 @@ Although part of the project will be fabricated using the laser cutter machine, 
 
 | | | 
 |--|--|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c04934d3-edcc-4803-aca9-d20b86aa0998" width="400">|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">
-|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c04934d3-edcc-4803-aca9-d20b86aa0998" width="400">|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">|
 
 
 ### **Early Prototypes and Fabrication** 01 / 03 / 2024
