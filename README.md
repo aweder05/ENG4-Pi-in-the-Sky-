@@ -202,8 +202,7 @@ Now that we have our base code working, we are going to start working on fabrica
 
 | | | 
 |:--:|:--:|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/ed813621-dbd2-405c-afb9-a3c058ee1313" width="300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/e8d68e13-61f1-43c9-8ded-4aed2ef74ce7" width = "400">
- | 
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/ed813621-dbd2-405c-afb9-a3c058ee1313" width="300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/e8d68e13-61f1-43c9-8ded-4aed2ef74ce7" width = "400">|
 
 Today we finished fabricating the frames for the wings. Unfortunately, we used hot glue to adhere the wing supports to the laser-cut wood pieces. We could have used friction fit to keep the wood pieces in place, but the quickest, most effective way to adhere the pieces was using hot glue.
 
