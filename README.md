@@ -253,6 +253,6 @@ These are prototypes images of how the Pico portion of the flight would look/fit
 
 Today we started to put our final project together. We printed a few pieces last class and put them on this class. We decided to use birch wood as the body and wings, and basswood for the wing supports. While we were putting the final plane together, we realized that our motor may not be powerful enough to provide the plane lift. We have a couple of solutions: use the larger DC motor, but recreate the bracket the smaller DC was previously held in; we can also use a smaller motor that is often used in drones, but it uses a different battery, so we would have to remodel both the bracket that holds the motor, and the our battery pack; finally, we could simply risk using our current motor. None of the options are particularly preferred. Our plane is modeled around our motor. The bracket for the smaller DC motor was the first thing we modeled, which led us to create the plane based off of the DC motor's bracket dimensions.
 
-*2 seconds later*
+![maxresdefault](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/22c27c31-bed6-4997-9e54-7aac173949fb)
 
 We decided to use the large DC motor, and recreate the bracket.
