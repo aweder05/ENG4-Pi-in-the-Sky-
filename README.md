@@ -256,3 +256,7 @@ Today we started to put our final project together. We printed a few pieces last
 ![maxresdefault](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/22c27c31-bed6-4997-9e54-7aac173949fb)
 
 We decided to use the large DC motor, and recreate the bracket.
+
+## **4/17/2024 Fabrication Update** 
+
+One week later, and we have made a lot of good progress on our fabrication. After putting a few parts together, we've realized the weight of our plane means that we will need a much larger motor than the one we had originally planned to use. Fortunately for us, the width of our plane was just enough in order to fit a new motor into 
