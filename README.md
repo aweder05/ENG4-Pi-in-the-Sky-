@@ -259,4 +259,10 @@ We decided to use the large DC motor, and recreate the bracket.
 
 ## **4/17/2024 Fabrication Update** 
 
-One week later, and we have made a lot of good progress on our fabrication. After putting a few parts together, we've realized the weight of our plane means that we will need a much larger motor than the one we had originally planned to use. Fortunately for us, the width of our plane was just enough in order to fit a new motor into 
+One week later, and we have made a lot of good progress on our fabrication. After putting a few parts together, we've realized the weight of our plane means that we will need a much larger motor than the one we had originally planned to use. Fortunately for us, the width of our plane was just enough in order to fit a new motor into
+
+## **4/22/2024 Pics and Flics** 
+
+| | |
+|:--:|:--:|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/804e10c0-bff9-43ef-b3dd-eb161021bfc8" width="300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/64b53870-5fdb-402d-b6df-c426dfe2ccd2" width = "400">|
