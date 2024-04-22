@@ -265,4 +265,4 @@ One week later, and we have made a lot of good progress on our fabrication. Afte
 
 | | |
 |:--:|:--:|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/804e10c0-bff9-43ef-b3dd-eb161021bfc8" width="300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/64b53870-5fdb-402d-b6df-c426dfe2ccd2" width = "300">|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/804e10c0-bff9-43ef-b3dd-eb161021bfc8" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/64b53870-5fdb-402d-b6df-c426dfe2ccd2" width = "400">|
