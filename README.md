@@ -261,7 +261,7 @@ We decided to use the large DC motor, and recreate the bracket.
 
 One week later, and we have made a lot of good progress on our fabrication. After putting a few parts together, we've realized the weight of our plane means that we will need a much larger motor than the one we had originally planned to use. Fortunately for us, the width of our plane was just enough in order to fit a new motor into
 
-## **4/22/2024 Pics and Flics** 
+## **4/22/2024 Pics and Flicks** 
 
 | | |
 |:--:|:--:|
@@ -275,3 +275,14 @@ One week later, and we have made a lot of good progress on our fabrication. Afte
 |:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c4da08ba-4d87-4ec7-97ee-2d170f00a15e" width = "500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b997ba19-83a8-413b-a511-b9a22804a267" width = "500">|
 
+These are photos of the final plane. It was ready to test, but then we figured out that we couldn't plug the USB into the Pico because there was no space.
+
+## **4/29/2024 Editing** 
+
+We brainstormed drilling a hole, simply taking the Pico out everytime, purchasing a special cord, and more, but we ended up redesigning the side of the plan, and reassembling the plane.
+
+| | |
+|:--:|:--:|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3a14a314-d117-462f-b4e8-b02bf8e80069" width = "500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/311a8634-857f-4234-9426-4ee9d3808e0d" width = "500">|
+
+These are prototypes of what the side of the plane would look like. I used these dimensions for the final rendor.
