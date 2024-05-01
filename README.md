@@ -285,4 +285,4 @@ We brainstormed drilling a hole, simply taking the Pico out everytime, purchasin
 |:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3a14a314-d117-462f-b4e8-b02bf8e80069" width = "500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/311a8634-857f-4234-9426-4ee9d3808e0d" width = "500">|
 
-These are prototypes of what the side of the plane would look like. I used these dimensions for the final rendor.
+##### These are prototypes of what the side of the plane would look like with the addition of the hole made for the Pico cord to fit. I used these dimensions for the final rendor.
