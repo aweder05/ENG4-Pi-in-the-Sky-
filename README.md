@@ -286,3 +286,8 @@ We brainstormed drilling a hole, simply taking the Pico out everytime, purchasin
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3a14a314-d117-462f-b4e8-b02bf8e80069" width = "500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/311a8634-857f-4234-9426-4ee9d3808e0d" width = "500">|
 
 ##### These are prototypes of what the side of the plane would look like with the addition of the hole made for the Pico cord to fit. I used these dimensions for the final rendor.
+
+## **5/2/24 Testing**
+We had our first test last class.
+[Instert video here]
+The Rasberry-Pi worked well, but we realized that we were taking data at every half a second. We also noticed that the wings were twisting with the wind, causing the plane to be unbalanced. The plane would glide well, but it would tilt to the right and left and spin out of control. We changed our code slightly to log data more frequently, and we added supports to the wings so that they would hopefully stablize.
