@@ -291,3 +291,7 @@ We brainstormed drilling a hole, simply taking the Pico out everytime, purchasin
 We had our first test last class.
 [Instert video here]
 The Rasberry-Pi worked well, but we realized that we were taking data at every half a second. We also noticed that the wings were twisting with the wind, causing the plane to be unbalanced. The plane would glide well, but it would tilt to the right and left and spin out of control. We changed our code slightly to log data more frequently, and we added supports to the wings so that they would hopefully stablize.
+
+## **5/6/24 Modifications**
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/6c807dfe-3d33-4668-985c-f9ae3dff06e6" width="500">
+##### We added wooden supports so that the wing won;t twist anymore.
