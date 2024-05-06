@@ -294,4 +294,5 @@ The Rasberry-Pi worked well, but we realized that we were taking data at every h
 
 ## **5/6/24 Modifications**
 <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/6c807dfe-3d33-4668-985c-f9ae3dff06e6" width="500">
-##### We added wooden supports so that the wing won;t twist anymore.
+
+##### We added wooden supports so that the wing won't twist anymore.
