@@ -269,11 +269,11 @@ One week later, and we have made a lot of good progress on our fabrication. Afte
 
 | | |
 |:--:|:--:|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/015677ca-4825-45a0-b18c-ffb907b79303" width = "500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a1276277-34b6-4d3e-96d5-618c4fee0f6d" width = "500">|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/015677ca-4825-45a0-b18c-ffb907b79303" width = "300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a1276277-34b6-4d3e-96d5-618c4fee0f6d" width = "300">|
 
 | | |
 |:--:|:--:|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c4da08ba-4d87-4ec7-97ee-2d170f00a15e" width = "500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b997ba19-83a8-413b-a511-b9a22804a267" width = "500">|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c4da08ba-4d87-4ec7-97ee-2d170f00a15e" width = "300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/b997ba19-83a8-413b-a511-b9a22804a267" width = "300">|
 
 These are photos of the final plane. It was ready to test, but then we figured out that we couldn't plug the USB into the Pico because there was no space.
 
@@ -283,7 +283,7 @@ We brainstormed drilling a hole, simply taking the Pico out everytime, purchasin
 
 | | |
 |:--:|:--:|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3a14a314-d117-462f-b4e8-b02bf8e80069" width = "500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/311a8634-857f-4234-9426-4ee9d3808e0d" width = "500">|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/3a14a314-d117-462f-b4e8-b02bf8e80069" width="300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/311a8634-857f-4234-9426-4ee9d3808e0d" width="300">|
 
 ##### These are prototypes of what the side of the plane would look like with the addition of the hole made for the Pico cord to fit. I used these dimensions for the final rendor.
 
@@ -293,6 +293,6 @@ We had our first test last class.
 The Rasberry-Pi worked well, but we realized that we were taking data at every half a second. We also noticed that the wings were twisting with the wind, causing the plane to be unbalanced. The plane would glide well, but it would tilt to the right and left and spin out of control. We changed our code slightly to log data more frequently, and we added supports to the wings so that they would hopefully stablize.
 
 ## **5/6/24 Modifications**
-<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/6c807dfe-3d33-4668-985c-f9ae3dff06e6" width="500">
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/6c807dfe-3d33-4668-985c-f9ae3dff06e6" width="300">
 
 ##### We added wooden supports so that the wing won't twist anymore.
