@@ -296,3 +296,7 @@ The Rasberry-Pi worked well, but we realized that we were taking data at every h
 <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/6c807dfe-3d33-4668-985c-f9ae3dff06e6" width="300">
 
 ##### We added wooden supports so that the wing won't twist anymore.
+
+## **5/9/24 Modifications**
+
+The airplane was dipping backwards everytime we tested it. We then redesigned the back stablizers to be scaled down, and used a lighter material to put onto the plane. The plane flew more smoothly and didn't dip backwards anymore.
