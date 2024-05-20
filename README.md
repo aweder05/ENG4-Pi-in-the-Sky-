@@ -299,4 +299,4 @@ The Rasberry-Pi worked well, but we realized that we were taking data at every h
 
 ## **5/9/24 Modifications**
 
-The airplane was dipping backwards everytime we tested it. We then redesigned the back stablizers to be scaled down, and used a lighter material to put onto the plane. The plane flew more smoothly and didn't dip backwards anymore.
+The airplane was dipping backwards everytime we tested it. We then redesigned the back stablizers to be scaled down, and used a lighter material to put onto the plane. The plane flew more smoothly and didn't dip backwards anymore. We're hoping that we can record a few decent test runs in the following weeks, record some data, and finish any documentation we still have left. 
