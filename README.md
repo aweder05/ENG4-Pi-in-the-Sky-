@@ -299,4 +299,8 @@ The Rasberry-Pi worked well, but we realized that we were taking data at every h
 
 ## **5/9/24 Modifications**
 
-The airplane was dipping backwards everytime we tested it. We then redesigned the back stablizers to be scaled down, and used a lighter material to put onto the plane. The plane flew more smoothly and didn't dip backwards anymore. We're hoping that we can record a few decent test runs in the following weeks, record some data, and finish any documentation we still have left. 
+The airplane was dipping backwards everytime we tested it. We then redesigned the back stablizers to be scaled down, and used a lighter material to put onto the plane. The plane flew more smoothly and didn't dip backwards anymore. We're hoping that we can run a few tests in the following weeks, record some data, and finish any documentation we still have left.
+
+## **5/24/24 Modifications**
+
+We tested the airplane again earlier this week and we found that the plane would glide for a few seconds, but then it would simply fall straight down out of the air. We came to the conclusion that the plane was too heavy, and we resolved to removing any unnecessary weight. Because the plane wasn't benefitting from the propeller, we removed it, as well as the motor and battery that completed the circuit. At this point, we're trying to create a vessle that moves through the air smoothly, and the altimeter data from the plane.
