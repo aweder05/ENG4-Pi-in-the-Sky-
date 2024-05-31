@@ -12,6 +12,8 @@
     * [Initial Ideas](Intitial_Ideas)
     * [Choice of Project](Choice_of_Project)
     * [Diagrams](Diagrams)
+* [Section 2: Log of Documentation](Section_2:_Log_of_Documentation)
+* [Section 3: Summary](Section_3:_Summary)
 
 &nbsp;
 
@@ -20,7 +22,7 @@
 ## **Section_1:_Planning** 
 ---
 
-### **Initial_Ideas**
+### Initial_Ideas
 
 Below is a list of possible project ideas, and a list of pros/cons for each to help us reach a consensus on which project idea would be the best fit for us. 
 * GPS Tracker on a Balloon
@@ -111,10 +113,9 @@ The project will be considered a success if the flyer is turned on with a switch
 
 ----
 
-# **Log of Documentation**
----- 
+## **Section_2:_Log_of_Documentation**
 ----
-### **CAD Basics** 01 / 03 / 2024
+### CAD Basics 01 / 03 / 2024
 
 Although part of the project will be fabricated using the laser cutter machine, most of the project will be handmade. We rendered our project in CAD with the intent of visualising what our final project will look like, and to find the mass of the projectile (without the electronics). The CAD was simple to design; sketches, extrudes and mate connections were the only tools used to render the plane. We plan on laser cutting the supports found under the wing that have the functions of both catching air, and providing a frame to the foam.
 
@@ -123,7 +124,7 @@ Although part of the project will be fabricated using the laser cutter machine, 
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/c04934d3-edcc-4803-aca9-d20b86aa0998" width="400">|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/720cd691-01dd-445a-b89f-15d2ac071839" width="400">|
 
 
-### **Early Prototypes and Fabrication** 01 / 03 / 2024
+### Early Prototypes and Fabrication 01 / 03 / 2024
 ---
 
 Today was the first day back from break, and we knew that we needed to get to work as quickly as possible. On our to do list for this week was to begin fabricating our project. The first thing that we did when coming into class was to look for building materials for our plane. Building a plane, we knew that materials needed to be light, flexible, and easily cut to exact specifications.
@@ -138,7 +139,7 @@ Our first attempt at fabricating this was using balsawood, since is light and re
 
 ----
 
-### **Coding** 01 / 17 / 2024
+### Coding 01 / 17 / 2024
 
 Coding so far has been difficult. The code currently doesn't work, but one thing that was probably important was having the proper libraries imported into our lib folder so that we don't have to write all the code from scratch.
 
@@ -146,13 +147,13 @@ Coding so far has been difficult. The code currently doesn't work, but one thing
 
 Anton got the code working! After deleting the line ``sensor.sealevel_pressure = 1013.2``, the code started printing the tempature, pressure and altitude values. The line Anton deleted states what the pressure at sea level is so that the computer could be calibrated to calculate the altitude, therefore the altitude that is being printed is wrong - this is our next problem to figure out.
 
-### **Coding and wiring** 01 / 18 / 2024
+### Coding and wiring 01 / 18 / 2024
 
 Today Anton and Mr. Miller figured out why the code wasn't working: the altimiter is able to detect a change in altitude, but is incapable of printing exact altitude values. 
 
 We also soldered the battery, motor, and switch together so that we could build our prototype. We have no control over the motor, but our next steps are assembling the prototype, and start fabricating the final project!
 
-### **Prototype creation** 01 / 24 / 2024
+### Prototype creation 01 / 24 / 2024
 
 | | | |
 |:---|:---|:---|
@@ -169,7 +170,7 @@ Today we finished creating the prototype. We used a pre-made plane from Anton, a
 
 ----
 
-### **Altimeter Test Code 90% Working** 01/24/2024
+### Altimeter Test Code 90% Working 01/24/2024
 
 Today, we finally accepted that the altimeter not being able to pinpoint our exact altitude would not be a huge problem for us. It is able to detect changes in altitude perfectly, and to a degree that will satisfy our needs. The only place where we "cheated" a little bit was when I added the `+150` on top of     `print(f"Altitude: {sensor.altitude +150}")` so that it would match the altitude of Charlottesville High School. This "+" value will most likely change day to day because of how the altitude is calculated through pressure, and because pressure can change due to a number of various factors, including weather. (When humidity increases, air pressure decreases, and vice versa.)
 
@@ -177,7 +178,7 @@ Today, we finally accepted that the altimeter not being able to pinpoint our exa
 ###### For space management purposes, this code can be accessed by pressing the link provided above. 
 
 
-## **Altimer Data Storage Locally on Pico** 1/25/24
+## Altimer Data Storage Locally on Pico 1/25/24
 
 After we've completed the test code for the altimeter, to make sure that we could actually use the altimeter in our final project. The tricky part that we had in front of us, after completing the test code, was to make sure that we would be able to store all of the data locally on the pico. This is a necessity since our project will of course not be connected to a computer, so everything will have to be battery powered and independent. The tricky part initially was to go through the whole process of Data Storage Part 1 and to recycle it for the altimeter. Where we ran into issues was when we couldn't find the data.csv file in our CircuitPy folder on the computer's file explorer. At first, we were confused, since the line `with open("/data.csv", "a") as datalog:` should actually create a new data.csv file in the Pico's storage. 
 
@@ -196,7 +197,7 @@ Code link is [**here**](https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/mai
 
 Now that we have our base code working, we are going to start working on fabrication. We went to Michael's and bought thin foam to use as the material to go onto the wings. We have pretty much finalized the desgins for the final project, so we just have to build it.
 
-## **Wing Frames** 2/2/24
+## Wing Frames 2/2/24
 
 
 | | | 
@@ -208,7 +209,7 @@ Today we finished fabricating the frames for the wings. Unfortunately, we used h
 ----
 &nbsp;
 
-## **02/07/2024 Wiring Diagram completed to begin soldering final circuit** 
+## 02/07/2024 Wiring Diagram completed to begin soldering final circuit 
 
 Today was a very productive day, as we finally were able to get an idea of how our final wiring would look like. Using fritzing, we were able to get our exact components imported into the program, and provide ourselves with an accurate template to use while we solder on the headers, switch, altimeter, and battery accessories onto the Pico Cowbell attachment. 
 
@@ -218,13 +219,13 @@ Here is an image of the wiring diagram:
 
 Once we start soldering, we can get a good idea of how all of the components fit onto our plane, and we can finally begin fabricating the fuselage.
 
-## **02/14/2024 Soldering Progress and final CAD Planning** 
+## 02/14/2024 Soldering Progress and final CAD Planning
 
 One week later, and we've made some good progress. Soldering is almost complete, and testing of the final circuit will hopefully start next week. If the circuit doesn't work, it'll suck, but we still have plenty of time to fix any possible issues. While soldering, we started to get a good idea of how we will implement the electronics into our plane. After doing some research, we've noticed how important it is to find our plane's center of mass, lift, and gravity, in order to make sure that it doesn't stall or go into a nosedive straight into the floor. 
 
 The tricky thing about soldering on such a small circuit board, along with integrating multiple components, is that at a certain point wires will begin to overlap and make it hard to fit anything new onto the PiCowbell module. Even though we didn't have a ton of components, it was enough to where we had to be really careful with our soldering, and make sure we wouldn't blow everything up. Soldering takes a substancial amount of concentration, so it's good that at least one person in our group is good at it.
 
-## **3/7/24 Soldering Update and last CAD polishing planned** 
+## 3/7/24 Soldering Update and last CAD polishing planned
 
 Unfortutely, with our project coming along so well, we were bound to run into an obstacle at some point. For us, that obstacle came in the form of soldering. Our lack of experience soldering such circuits really proved to be our greatest issue, as we spent multiple class periods which would've been better suited for other work. 
 
@@ -232,7 +233,7 @@ As we started soldering, things were going very well, but then once we had to st
 
 Today is a very special day for our soldering journey, as we finally got the board t switch between code and data mode; something that we had really struggled with in the past. The fix for this problem was really, really stupid. On VS Code, we had a boot.py file open for a different board than the one that we were using. This meant that that on the actual board that we were using, the switch that was wired to GP0 was coded to be wired to GP1. Fortunately, this was a very easy fix, but frustrating nonetheless.
 
-## **3/8/24 Final Soldering**
+## 3/8/24 Final Soldering
 
 Today, we can finally say that we have completed our soldering process. After a couple weeks of frustrating setbacks, we can finally say that this part of our project is complete. The key to this success was to first come up with an essentially foolproof plan and wiring diagram in order to ensure no more setbacks will waste valuable time for us. 
 
@@ -242,14 +243,14 @@ Today, we can finally say that we have completed our soldering process. After a 
 
 We had to solder our wiring twice. The first time we had to solder, we put too much solder onto board, making it difficult to avoid the metal we melted onto the board. This led to short ciruiting the board, and while we searched for the problem for some time, ultimately, we decided the best way to solve our problem was to start from scratch. On the second go-around, we were better at soldering, and learned that less is more. We were also much more meticulous in keeping track of what wires we had soldered. Before we even started soldering, we made sure to make a wiring diagram that we could easily replicate on the Cowbell. This didn't necessarily mean that it was a neat diagram, but a realistic one. This was important in our success in soldering.
 
-## **4/8/24 Prototypes**
+## 4/8/24 Prototypes
 | | | |
 |:--:|:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cb79bcef-82ad-4b70-a608-afeddfc27276" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cf14ad6b-580a-47df-a074-4933ab49fe97" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/51d23656-0944-4c7c-bc8e-8c15fd2b92b7" width="400">
 
 These are prototypes images of how the Pico portion of the flight would look/fit like. Prototyping small portions of the plane is helpful because it reduces waste, and makes it easier to see what parts of the final project will need extra attention, and what parts work. Figuring out how the Pico would fit onto the plane was one of our biggest issues, but by rendering small prototypes, and tweaking the small problems, we reduced waste and time.
 
-## **4/10/24 Fabrication**
+## 4/10/24 Fabrication
 
 Today we started to put our final project together. We printed a few pieces last class and put them on this class. We decided to use birch wood as the body and wings, and basswood for the wing supports. While we were putting the final plane together, we realized that our motor may not be powerful enough to provide the plane lift. We have a couple of solutions: use the larger DC motor, but recreate the bracket the smaller DC was previously held in; we can also use a smaller motor that is often used in drones, but it uses a different battery, so we would have to remodel both the bracket that holds the motor, and the our battery pack; finally, we could simply risk using our current motor. None of the options are particularly preferred. Our plane is modeled around our motor. The bracket for the smaller DC motor was the first thing we modeled, which led us to create the plane based off of the DC motor's bracket dimensions.
 
@@ -257,17 +258,17 @@ Today we started to put our final project together. We printed a few pieces last
 
 We decided to use the large DC motor, and recreate the bracket.
 
-## **4/17/2024 Fabrication Update** 
+## 4/17/2024 Fabrication Update
 
 One week later, and we have made a lot of good progress on our fabrication. After putting a few parts together, we've realized the weight of our plane means that we will need a much larger motor than the one we had originally planned to use. Fortunately for us, the width of our plane was just enough in order to fit a new motor into
 
-## **4/22/2024 Pics and Flicks** 
+## 4/22/2024 Pics and Flicks 
 
 | | |
 |:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/804e10c0-bff9-43ef-b3dd-eb161021bfc8" width="500"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/64b53870-5fdb-402d-b6df-c426dfe2ccd2" width = "500">|
 
-| | |
+| | | 
 |:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/015677ca-4825-45a0-b18c-ffb907b79303" width = "300"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/a1276277-34b6-4d3e-96d5-618c4fee0f6d" width = "300">|
 
@@ -277,7 +278,7 @@ One week later, and we have made a lot of good progress on our fabrication. Afte
 
 These are photos of the final plane. It was ready to test, but then we figured out that we couldn't plug the USB into the Pico because there was no space.
 
-## **4/29/2024 Editing** 
+## 4/29/2024 Editing 
 
 We brainstormed drilling a hole, simply taking the Pico out everytime, purchasing a special cord, and more, but we ended up redesigning the side of the plan, and reassembling the plane.
 
@@ -287,20 +288,26 @@ We brainstormed drilling a hole, simply taking the Pico out everytime, purchasin
 
 ##### These are prototypes of what the side of the plane would look like with the addition of the hole made for the Pico cord to fit. I used these dimensions for the final rendor.
 
-## **5/2/24 Testing**
+## 5/2/24 Testing
 We had our first test last class.
 [Instert video here]
 The Rasberry-Pi worked well, but we realized that we were taking data at every half a second. We also noticed that the wings were twisting with the wind, causing the plane to be unbalanced. The plane would glide well, but it would tilt to the right and left and spin out of control. We changed our code slightly to log data more frequently, and we added supports to the wings so that they would hopefully stablize.
 
-## **5/6/24 Modifications**
+## 5/6/24 Modifications
 <img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/6c807dfe-3d33-4668-985c-f9ae3dff06e6" width="300">
 
 ##### We added wooden supports so that the wing won't twist anymore.
 
-## **5/9/24 Modifications**
+## 5/9/24 Modifications
 
 The airplane was dipping backwards everytime we tested it. We then redesigned the back stablizers to be scaled down, and used a lighter material to put onto the plane. The plane flew more smoothly and didn't dip backwards anymore. We're hoping that we can run a few tests in the following weeks, record some data, and finish any documentation we still have left.
 
-## **5/24/24 Modifications**
+## 5/24/24 Modifications
 
 We tested the airplane again earlier this week and we found that the plane would glide for a few seconds, but then it would simply fall straight down out of the air. We came to the conclusion that the plane was too heavy, and we resolved to removing any unnecessary weight. Because the plane wasn't benefitting from the propeller, we removed it, as well as the motor and battery that completed the circuit. At this point, we're trying to create a vessle that moves through the air smoothly, and the altimeter data from the plane.
+
+## **Section_3:_Summary**
+
+| | | 
+|:--:|:--:|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Capture.PNG?raw=true" with="200"> | The rate of change of the flight wasn't as fast as we thought it would be. | 
