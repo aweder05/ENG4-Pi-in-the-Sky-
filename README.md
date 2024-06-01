@@ -316,6 +316,10 @@ This video really isn't the best demonstration of what our plane can do, but unf
 
 **Data Analysis**
 
+Here is a graph of Altitude vs. Time, displaying the data that our plane gathered. 
+
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Screenshot%202024-05-31%20at%2020.19.28.png?raw=true" width="400">
+
 | | | 
 |:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Capture.PNG?raw=true" with="400"> | (Click on Image to Enlarge in a new Tab) This is the final data gathered from one of our launches. From ~8-24 seconds is right after the data collection was turned on. (It starts at 8 seconds because from 0-8 seconds the pico is booting up after being turned on) From ~24-43 seconds would demonstrate an increase in altitude as we walk up the hill to test our plane. Then, when you look at 43-50 seconds, that is when the plane is losing altitude and gliding down the hill. We were hoping that it would take the plane much longer to reach the bottom of the hill.  | 
