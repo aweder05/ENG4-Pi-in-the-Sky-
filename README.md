@@ -227,6 +227,7 @@ The tricky thing about soldering on such a small circuit board, along with integ
 
 ## 3/7/24 Soldering Update and last CAD polishing planned
 
+
 Unfortutely, with our project coming along so well, we were bound to run into an obstacle at some point. For us, that obstacle came in the form of soldering. Our lack of experience soldering such circuits really proved to be our greatest issue, as we spent multiple class periods which would've been better suited for other work. 
 
 As we started soldering, things were going very well, but then once we had to start testing the different components, we kept running into little problems that ultimately cost us a lot of valuable time fixing. Our main issue was with wiring some components, such as the battery, to the wrong power input/output. Fixing this was not super hard, but all of the little fixes built up after time, and we had to eventually scrap our first prototyping PiCowbell and start again on a new one. 
@@ -249,6 +250,13 @@ We had to solder our wiring twice. The first time we had to solder, we put too m
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cb79bcef-82ad-4b70-a608-afeddfc27276" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/cf14ad6b-580a-47df-a074-4933ab49fe97" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/assets/112981481/51d23656-0944-4c7c-bc8e-8c15fd2b92b7" width="400">
 
 These are prototypes images of how the Pico portion of the flight would look/fit like. Prototyping small portions of the plane is helpful because it reduces waste, and makes it easier to see what parts of the final project will need extra attention, and what parts work. Figuring out how the Pico would fit onto the plane was one of our biggest issues, but by rendering small prototypes, and tweaking the small problems, we reduced waste and time.
+
+## Final CAD Renders
+
+| | | |
+|:--:|:--:|:--:|
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Assembly%202.png?raw=true" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Assembly%202%20(3).png?raw=true" width="400"> | 
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Assembly%202%20(2).png?raw=true" width="400"> |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Assembly%202%20(1).png?raw=true" width="400"> | 
 
 ## 4/10/24 Fabrication
 
@@ -290,7 +298,6 @@ We brainstormed drilling a hole, simply taking the Pico out everytime, purchasin
 
 ## 5/2/24 Testing
 We had our first test last class.
-[Instert video here]
 The Rasberry-Pi worked well, but we realized that we were taking data at every half a second. We also noticed that the wings were twisting with the wind, causing the plane to be unbalanced. The plane would glide well, but it would tilt to the right and left and spin out of control. We changed our code slightly to log data more frequently, and we added supports to the wings so that they would hopefully stablize.
 
 ## 5/6/24 Modifications
