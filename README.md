@@ -308,9 +308,36 @@ We tested the airplane again earlier this week and we found that the plane would
 
 ## **Section_3:_Summary**
 
+**Flight Video**
+
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/388571d487234731bc0e09fdf863552d.mov">
+
+**Data Analysis**
+
 | | | 
 |:--:|:--:|
 |<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Capture.PNG?raw=true" with="400"> | This is the final data gathered from one of our launches. From ~8-24 seconds is right after the data collection was turned on. (It starts at 8 seconds because from 0-8 seconds the pico is booting up after being turned on) From ~24-43 seconds would demonstrate an increase in altitude as we walk up the hill to test our plane. Then, when you look at 43-50 seconds, that is when the plane is losing altitude and gliding down the hill. We were hoping that it would take the plane much longer to reach the bottom of the hill.  | 
 
 We were really very close to making a perfectly working glider, but in the end, we would not recommend any passengers to get onto our plane just yet. When we tested the gliding of the plane for the very first time, just in the classroom, it worked surprisingly well. As we were throwing it to eachother from distances up to 10 meters apart, it flew very nicely from one person to the other. Because of this, we were perhaps slightly too ambitious when taking the plane outside, and launching it from a hill. 
 It was just a little too much for our little plane to handle, and it only glid for a few seconds before loosing altitude at an increasing rate until it essentially just wasn't gliding anymore. Making a plane fly is extremely hard, and using classroom materials and our very baseline knowledge of aerodynamics and flight engineering makes that even harder. Such a challenging task would always be difficult to succeed in, but I know we can be very proud of how close we got, and of all the hard work we put into making a somewhat functional plane.
+
+### **Reflection:**
+
+Anton and I have been partners for past projects and we know our limits. We strategically chose a project and planned our timeline to challenge us, but be achievable at the same time.
+
+Analysis of what we did wrong:
+
+We focused so much on being able to choose a project that we could finish that we didn’t use our own judgment as well as we could have. We designed the plane we built off of a Youtube tutorial. While the construction and designing of the plane was fairly simple because we were so reliant on the tutorial, we didn’t take into account where the center of mass would be, or how heavy the plane would be, or how the different materials would affect the plane, or even how the shape of the plane was more important than the shape in the tutorial because we didn’t have a motor while theirs did. We also had to scrap a Cowbell board because we weren’t diligent enough on keeping track of how and where we were soldering the wires.
+
+### **Analysis of what we did well:**
+
+This year was a reflection of what we have learned from our past years working together. Last year we struggled with choosing projects that were too complicated for the time allotted for creating. We also struggled with deciding on a concrete plan that was achievable given our schedules and bandwidth. Learning from our scheduling mistakes from last year, we used Google Calendar to stay on track. We planned specific weeks where we would work on the design of the plane, the code or the fabrication. Finally, we left time for testing and last minute tweaks. This schedule helped relieve stress, and create a project that works. We also decided on goals for our project. Oftentimes, last year we would have a project we were passionate about but it was too elaborate and we wouldn’t have set goals for the final product. This year we decided on creating a completed project that met the teachers’ guidelines before moving on to adding our own flare. Creating goals and making a clear timeline for our project relieved stress for both of us, and helped us be more productive, and stay on task.
+
+### **What we would do better if we had the opportunity:**
+
+While the Youtube tutorial was very helpful in creating our final project, if we had thought through the design of our plane, what materials to use, and how that would affect the overall flight of the plane, our project would have been more personalized, and better suited for our circumstances. The Youtube tutorial’s pane was motor powered, and remotely controlled. It also had extra servos to help steer the plane. Our plane wasn’t nearly as involved, so the next time we decide to use a tutorial for the project, we should think through the materials and design in more depth. Because our plane isn’t motor powered, it doesn’t have the flexibility to have a rectangular shape. Instead, it should have a more streamline design, so that it can more easily cut through the air. The plane should have also been made out of sturdier materials, especially on the wings. Unfortunately we didn’t have any other idea other than simply gluing the tops of the wings onto their supports. This makes the wings flimsy, and easily breakable. 
+
+Earlier in the project we were working on code and soldering the wires from the breadboard onto the Cowbell to ensure that the Pico could fit onto our project to collect data using an altimeter. When we finished soldering the Cowbell the first time around, the board kept short circuiting (I think we fried a Pico). We didn’t clearly mark which wires had been soldered and where they went. It was disorganized, but more importantly, we didn’t check if the wires we soldered were even doing their intended function. We decided to scrap our first Cowbell, and going into our second round of soldering, we ensured that we were organized about which wires go where, and after every wire that we soldered we attached the Pico and checked to make sure that the wires were functioning properly. 
+
+Additionally, a major oversight in our code at the time of submission was the rate at which altitude data was being recorded. The average interval between each row of data is between 1.1-1.2 seconds. While this is somewhat acceptable in terms of gathering baseline data, in order to eventually see a more accurate curve of acceleration, and more importantly, altitude, it is best for the code to interact with the Pico so that it gathers data 3-4 times a second, rather than around only once. We attempted to accomplish this at first, but the pico simply would not cooperate with the new adafruit mpl file which was supposed to increase the rate of data collection. In the end, with little time remaining to complete our project, we decided to go with our working version of the code. In terms of time management in the code area of our project, I think we did better on code than on the fabrication portion of our project. Even though we didn’t reach the level of efficiency that data gathering such as altitude often requires. 
+
