@@ -310,13 +310,15 @@ We tested the airplane again earlier this week and we found that the plane would
 
 **Flight Video**
 
-<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/388571d487234731bc0e09fdf863552d.mov">
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/388571d487234731bc0e09fdf863552d-ezgif.com-optimize.gif?raw=true">
+
+This video really isn't the best demonstration of what our plane can do, but unfortunately we forgot to record one of our better runs, which has the data recorded below. This test was one of the earlier ones, and clearly demonstrates that the plane is able to glide, which it was in the first couple of seconds, but isn't stable enough in order to sustain prolonged flight. 
 
 **Data Analysis**
 
 | | | 
 |:--:|:--:|
-|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Capture.PNG?raw=true" with="400"> | This is the final data gathered from one of our launches. From ~8-24 seconds is right after the data collection was turned on. (It starts at 8 seconds because from 0-8 seconds the pico is booting up after being turned on) From ~24-43 seconds would demonstrate an increase in altitude as we walk up the hill to test our plane. Then, when you look at 43-50 seconds, that is when the plane is losing altitude and gliding down the hill. We were hoping that it would take the plane much longer to reach the bottom of the hill.  | 
+|<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/Capture.PNG?raw=true" with="400"> | (Click on Image to Enlarge in a new Tab) This is the final data gathered from one of our launches. From ~8-24 seconds is right after the data collection was turned on. (It starts at 8 seconds because from 0-8 seconds the pico is booting up after being turned on) From ~24-43 seconds would demonstrate an increase in altitude as we walk up the hill to test our plane. Then, when you look at 43-50 seconds, that is when the plane is losing altitude and gliding down the hill. We were hoping that it would take the plane much longer to reach the bottom of the hill.  | 
 
 We were really very close to making a perfectly working glider, but in the end, we would not recommend any passengers to get onto our plane just yet. When we tested the gliding of the plane for the very first time, just in the classroom, it worked surprisingly well. As we were throwing it to eachother from distances up to 10 meters apart, it flew very nicely from one person to the other. Because of this, we were perhaps slightly too ambitious when taking the plane outside, and launching it from a hill. 
 It was just a little too much for our little plane to handle, and it only glid for a few seconds before loosing altitude at an increasing rate until it essentially just wasn't gliding anymore. Making a plane fly is extremely hard, and using classroom materials and our very baseline knowledge of aerodynamics and flight engineering makes that even harder. Such a challenging task would always be difficult to succeed in, but I know we can be very proud of how close we got, and of all the hard work we put into making a somewhat functional plane.
