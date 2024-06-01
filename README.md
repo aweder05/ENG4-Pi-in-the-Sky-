@@ -310,7 +310,7 @@ We tested the airplane again earlier this week and we found that the plane would
 
 **Flight Video**
 
-<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/388571d487234731bc0e09fdf863552d-ezgif.com-optimize.gif?raw=true" width="500">
+<img src="https://github.com/aweder05/ENG4-Pi-in-the-Sky-/blob/main/media/388571d487234731bc0e09fdf863552d-ezgif.com-optimize.gif?raw=true" height="600">
 
 This video really isn't the best demonstration of what our plane can do, but unfortunately we forgot to record one of our better runs, which has the data recorded below. This test was one of the earlier ones, and clearly demonstrates that the plane is able to glide, which it was in the first couple of seconds, but isn't stable enough in order to sustain prolonged flight. 
 
